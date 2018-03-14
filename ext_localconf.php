@@ -28,5 +28,6 @@ mod.wizards.newContentElement.wizardItems.special {
         }
     }
     show := addToList(ot_texticon)
+    1.
 }
 ');

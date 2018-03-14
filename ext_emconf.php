@@ -20,6 +20,7 @@ $EM_CONF[$_EXTKEY] = [
         'conflicts' => [],
         'suggests' => [],
         1.
+        2.
     ],
     'autoload' => [
         'psr-4' => ['OliverThiele\\OtTexticon\\' => 'Classes']
